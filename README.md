@@ -1,2 +1,0 @@
-# SpaceGame
-SpaceGame in Java
